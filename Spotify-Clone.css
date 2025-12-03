@@ -649,6 +649,7 @@ h2:hover{
   color: #a7aba9;              /* Spotify green hover */
   transform: scale(1.2);
   opacity: 1;
+  cursor: pointer;
 }
 
 .volume-bar {
