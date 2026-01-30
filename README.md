@@ -1,2 +1,2 @@
 # Spotify-Clone
-How Frontend looks Like Complete Functional Enabeled Workthrough
+How Frontend looks Like Complete Functional Enabled Working Clone
